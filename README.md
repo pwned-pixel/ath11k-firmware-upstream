@@ -14,3 +14,7 @@ https://wireless.wiki.kernel.org/en/users/drivers/ath11k/bugreport
 Questions, comments and feature requests to the ath11k mailing list:
 
 https://wireless.wiki.kernel.org/en/users/drivers/ath11k/mailinglist
+
+The list archive:
+
+https://lore.kernel.org/ath11k/

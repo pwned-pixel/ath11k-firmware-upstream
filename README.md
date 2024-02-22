@@ -5,9 +5,11 @@ Firmware files for ath11k, a mac80211 driver for Qualcomm Technologies
 
 To install or update your firmware images:
 
+```
 wget https://github.com/qca/qca-swiss-army-knife/raw/master/tools/scripts/ath11k/ath11k-fw-repo
 chmod 755 ath11k-fw-repo
 ./ath11k-fw-repo --install /tmp/firmware
+```
 
 For more info check the wiki page:
 

@@ -8,7 +8,7 @@ To install or update your firmware images:
 ```
 wget https://github.com/qca/qca-swiss-army-knife/raw/master/tools/scripts/ath11k/ath11k-fw-repo
 chmod 755 ath11k-fw-repo
-./ath11k-fw-repo --install /tmp/firmware
+./ath11k-fw-repo --install /lib/firmware
 ```
 
 For more info check the wiki page:

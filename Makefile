@@ -4,3 +4,6 @@ check:
 
 notices:
 	@find -name '*.txt' | xargs file
+
+install:
+	ath11k-fw-repo --install /lib/firmware

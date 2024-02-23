@@ -11,6 +11,8 @@ chmod 755 ath11k-fw-repo
 ./ath11k-fw-repo --install /lib/firmware
 ```
 
+Or, if you copy `ath11k-fw-repo` in your $PATH, run `make install`.
+
 For more info check the wiki page:
 
 https://wireless.wiki.kernel.org/en/users/drivers/ath11k
